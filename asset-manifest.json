@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/testdrive/static/css/main.e86291c9.css",
+    "main.js": "/testdrive/static/js/main.ce217850.js",
+    "static/media/form-img4.jpg": "/testdrive/static/media/form-img4.eff703b7c1913f670fc9.jpg",
+    "index.html": "/testdrive/index.html",
+    "main.e86291c9.css.map": "/testdrive/static/css/main.e86291c9.css.map",
+    "main.ce217850.js.map": "/testdrive/static/js/main.ce217850.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e86291c9.css",
+    "static/js/main.ce217850.js"
+  ]
+}
